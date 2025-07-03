@@ -143,10 +143,10 @@ img {
 }
 /* hero*/
 .hero {
+  max-width: 1440px;
   padding-top: 188px;
   padding-bottom: 188px;
   height: 600px;
-  max-width: 1440px;
   background-color: #2e2f42;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
