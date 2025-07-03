@@ -143,7 +143,6 @@ img {
 }
 /* hero*/
 .hero {
-  max-width: 1440px;
   padding-top: 188px;
   padding-bottom: 188px;
   height: 600px;
@@ -158,6 +157,7 @@ img {
   background-size: cover;
 }
 .hero .container {
+  max-width: 1440px;
   display: flex;
   flex-direction: column;
   align-items: center;
