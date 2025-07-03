@@ -75,6 +75,10 @@ img {
   align-items: center;
   gap: 40px;
 }
+.nav-list li:first-child .nav-links {
+  color: #404bbf;
+}
+
 .nav-list .nav-links {
   color: #2e2f42;
   text-decoration: none;
