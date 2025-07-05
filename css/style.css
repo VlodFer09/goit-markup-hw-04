@@ -402,12 +402,13 @@ img {
 .footer .container {
   display: flex;
   align-items: baseline;
-  margin-right: 120px;
 }
 
 .footer-block {
   max-width: 264px;
+  margin-right: 120px;
 }
+
 .footer .logo {
   display: inline-block;
   margin-bottom: 16px;
